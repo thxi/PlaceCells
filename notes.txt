@@ -1,1 +1,15 @@
+might be used in the report
+
 cover(topology) -> nerve of a covering (to get a simplicial complex)
+vietoris Rips
+
+topological data analysis
+coordinate free
+invariant under deformations (less sensitive to noise)
+compressed representation of shapes
+
+pricncipal and secondary svd values (for filtering)
+actually see clustering and pca, t-SNE, dimensionality reduction
+single linkage clustering, agglomerative clustering
+
+graphviz
