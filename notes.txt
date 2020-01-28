@@ -1,0 +1,1 @@
+cover(topology) -> nerve of a covering (to get a simplicial complex)
