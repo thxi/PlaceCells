@@ -13,3 +13,18 @@ actually see clustering and pca, t-SNE, dimensionality reduction
 single linkage clustering, agglomerative clustering
 
 graphviz
+
+objects (generators) + grading (dimensions) + boundary map (d^2=0)
+create homology (H_n) -> calculate rank -> profit
+
+cech homology
+
+https://youtu.be/4BkWL5Rr3Hs?t=1743
+WAYTOODANK
+nerve lemma
+if V is a finite collection of subsets of X with all non-emppty intersections of subcollections of V contractible, then N(V) is homotopic to the union of elements of V
+if create simplicial complex -> same homology (and homotopy)
+
+filtered simplicial complex
+persistent homologies (ignore new holes???)
+https://youtu.be/DdTfvljeC0M?t=1131
