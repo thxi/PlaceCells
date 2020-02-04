@@ -9,3 +9,9 @@ http://homepage.math.uiowa.edu/~idarcy/AT/schedule.html#books
 
 long playlist explaining what a manifold is:
 https://www.youtube.com/watch?v=CEXSSz0gZI4&list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo&index=1
+
+slack:
+alg-top-lab.slack.com
+
+report 1:
+https://docs.google.com/document/d/1bX5zVgwOXk6Xa1Wq3PC0UzUVY7L_5rkCQlFn6a5wTwY/edit?usp=sharing
