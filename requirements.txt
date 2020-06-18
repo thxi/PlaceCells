@@ -6,6 +6,7 @@ catboost==0.20.2
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
+dionysus==2.0.6
 entrypoints==0.3
 graphviz==0.13.2
 importlib-metadata==1.4.0
