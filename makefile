@@ -1,2 +1,2 @@
 run:
-	jupyter notebook --ip='*' --NotebookApp.token='' --NotebookApp.password='' --no-browser
+	jupyter lab --ip='*' --NotebookApp.token='' --NotebookApp.password='' --no-browser
