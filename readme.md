@@ -34,11 +34,11 @@ Then,
 This will run a jupyter notebook(lab) on localhost:8888
 (warning: I disabled authentification for the jupyter notebook, so you may want
 to avoid running it when connected to public networks, or you can just run
-jupyter notebook normally by typing in terminal `jupyter lab`)
+jupyter notebook normally by typing `jupyter lab` in terminal)
 
 ## Presentation (with images)
 
-If you want a very short intro to topology and this research, you can follow
+If you want a very short introduction to topology and this research, you can follow
 [the link](https://docs.google.com/presentation/d/14w54qtytAnmYjUSET2NCNGnUpqrMwVsIfT9REbYE2Zc/edit?usp=sharing)
-to see the presentation I have made to present the results of my work. Slides
-have all the information you need to get started.
+to see a presentation I have made to present the results of my work. The presentation
+has all the information you need to get started.
